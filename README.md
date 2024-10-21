@@ -20,6 +20,8 @@
 ## GitHub
 ### Branches
 
+![cooperation practice](/imgs/branches.png)
+
 ### Pull Request
 
 ### Wiki
