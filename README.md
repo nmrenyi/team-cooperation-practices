@@ -5,6 +5,8 @@
 ### Conda
 conda-forge
 
+### [nbdime](https://github.com/jupyter/nbdime?tab=readme-ov-file)
+
 
 ## Git
 
