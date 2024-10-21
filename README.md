@@ -6,7 +6,7 @@
 conda-forge
 
 ### [nbdime](https://github.com/jupyter/nbdime)
-
+an effective `diff` tool for jupyter notebooks
 
 ## Git
 
