@@ -1,5 +1,11 @@
 # Team Cooperation Practices
 
+## Environments
+
+### Conda
+conda-forge
+
+
 ## Git
 
 ### Basic Operations
