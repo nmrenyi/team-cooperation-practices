@@ -54,6 +54,9 @@ no `conda` now? use [miniforge](https://github.com/conda-forge/miniforge), a ver
 
 ***A show ground for your coding professionism to potential employers!***
 
+Just [an example here](https://github.com/Harry-Chen).
+<!-- hats off to Harry Chen at Tsinghua University -->
+
 ### Branches
 
 ![cooperation practice](/imgs/branches.png)
