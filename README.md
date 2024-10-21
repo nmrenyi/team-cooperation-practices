@@ -5,11 +5,17 @@
 ### Conda
 
 **Please config conda-forge**
-[conda-forge](https://conda-forge.org/docs/user/introduction/) a wide range of packages on conda
 
+[conda-forge](https://conda-forge.org/docs/user/introduction/) includes a wide range of packages on conda. Use `conda-forge` as the only channel in `conda` to avoid package compatibility problems across different channels.
+
+Check your conda version and update it
 ```bash
 conda --version
 conda update conda
+```
+
+Add `conda-forge` as the highest priority channel, and activate `strict` channel priority
+```bash
 conda config --add channels conda-forge
 conda config --set channel_priority strict
 ```
