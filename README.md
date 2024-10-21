@@ -56,6 +56,8 @@ no `conda` now? use [miniforge](https://github.com/conda-forge/miniforge), a ver
 ![cooperation practice](/imgs/branches.png)
 
 ### Pull Request
+**Please use Pull Request instead of `git merge` in a team project,** offering more visibility of the merge and more possibility for fine-grained control (e.g. code review before pull request).
+
 
 ### Wiki
 
