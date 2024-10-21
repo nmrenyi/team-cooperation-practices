@@ -8,7 +8,7 @@
 [conda-forge](https://conda-forge.org/docs/user/introduction/) a wide range of packages on conda
 
 
-**Please use conda, rather than pip** ([understanding conda and pip](https://www.anaconda.com/blog/understanding-conda-and-pip))
+**Please use conda, rather than pip** to install your Python packages ([understanding conda and pip](https://www.anaconda.com/blog/understanding-conda-and-pip))
 
 ### [nbdime](https://github.com/jupyter/nbdime)
 an effective `diff` tool for jupyter notebooks
