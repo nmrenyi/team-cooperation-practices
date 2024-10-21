@@ -3,9 +3,19 @@
 ## Environments
 
 ### Conda
-[miniforge](https://github.com/conda-forge/miniforge) a version of conda with strict conda-forge rules
 
+**Please config conda-forge**
 [conda-forge](https://conda-forge.org/docs/user/introduction/) a wide range of packages on conda
+
+```bash
+conda --version
+conda update conda
+conda config --add channels conda-forge
+conda config --set channel_priority strict
+```
+From now on using conda install <package-name> will also find packages in conda-forge channels.
+
+no `conda` now? use [miniforge](https://github.com/conda-forge/miniforge), a version of conda with strict conda-forge rules!
 
 
 **Please use conda, rather than pip** to install your Python packages ([understanding conda and pip](https://www.anaconda.com/blog/understanding-conda-and-pip))
