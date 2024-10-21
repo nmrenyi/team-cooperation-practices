@@ -20,8 +20,8 @@ no `conda` now? use [miniforge](https://github.com/conda-forge/miniforge), a ver
 
 **Please use conda, rather than pip** to install your Python packages ([understanding conda and pip](https://www.anaconda.com/blog/understanding-conda-and-pip))
 
-### [nbdime](https://github.com/jupyter/nbdime)
-an effective `diff` tool for jupyter notebooks
+### nbdime
+[nbdime](https://github.com/jupyter/nbdime), an effective `diff` tool for jupyter notebooks
 
 ## Git
 
