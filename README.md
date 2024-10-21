@@ -51,6 +51,9 @@ no `conda` now? use [miniforge](https://github.com/conda-forge/miniforge), a ver
 
 
 ## GitHub
+
+***A show ground for your coding professionism to potential employers!***
+
 ### Branches
 
 ![cooperation practice](/imgs/branches.png)
