@@ -13,7 +13,7 @@
 
 
 ### Miscellaneous
-1. Frequency of `git commit`
+1. Frequency of `git commit`: Commit frequently!
 2. [Commit Message Conventions](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 
 
