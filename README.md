@@ -3,7 +3,10 @@
 ## Environments
 
 ### Conda
-conda-forge
+[miniforge](https://github.com/conda-forge/miniforge) a version of conda with strict conda-forge rules
+
+[conda-forge](https://conda-forge.org/docs/user/introduction/) a wide range of packages on conda
+
 
 ### [nbdime](https://github.com/jupyter/nbdime)
 an effective `diff` tool for jupyter notebooks
