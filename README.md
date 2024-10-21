@@ -2,6 +2,21 @@
 
 ## Git
 
+### Basic Operations
+`git add`
+
+`git commit`
+
+`git push`
+
+`git pull`
+
+
+### Miscellaneous
+1. Frequency of `git commit`
+2. [Commit Message Conventions](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+
+
 ## GitHub
 ### Branches
 
